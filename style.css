@@ -58,6 +58,7 @@ body{
     color: var(--very-dark-blue);
 }
 .body-card .description-product{
+    line-height: 1.6rem;
     color: var(--dark-grayish-blue);
     font-size: 0.9rem;
 }
